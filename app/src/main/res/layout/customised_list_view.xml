@@ -35,7 +35,6 @@
             android:layout_margin="5dp"
             android:padding="5dp"
             android:text="@string/Saumya_singh"
-            android:gravity="center"
             />
 
         <TextView

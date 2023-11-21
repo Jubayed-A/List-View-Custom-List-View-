@@ -34,7 +34,7 @@
             android:textStyle="bold"
             android:layout_margin="5dp"
             android:padding="5dp"
-            android:text="Saumya Singh"
+            android:text="@string/Saumya_singh"
             android:gravity="center"
             />
 
@@ -45,7 +45,7 @@
             android:textSize="14sp"
             android:layout_margin="5dp"
             android:padding="5dp"
-            android:text="Hello How are you"
+            android:text="@string/hello_how_are_you"
             />
 
 
@@ -55,7 +55,7 @@
         android:id="@+id/tvTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="4 : 45 PM"
+        android:text="@string/_4_45_pm"
         android:layout_weight="1"
         android:gravity="center"
         android:layout_gravity="center"
